@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "JJKWorld-LKvm.aternos.me",
+    "ip": "JJKWorld-LKvm.aternos.me:30085",
     "port": 30085,
     "version": "",
     "try-creative": false
